@@ -1,0 +1,11 @@
+/*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: tt_sina
+ * Creation Date: Nov 13, 2021 at 2:51:36 PM
+ *********************************************/
+m=3; //tedade satrhaye matrix ra vared konid.
+n=4; //tedade sotunhaye matrix ra vared konid.
+a=[[]
+   []
+   []]
+// khode matris ra dar kadr bala vared konid.

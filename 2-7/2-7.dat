@@ -1,0 +1,18 @@
+/*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: tt_sina
+ * Creation Date: Nov 4, 2021 at 5:50:06 PM
+ *********************************************/
+n=5;
+c=[[15 24 18 35 27]
+   [32 19 26 17 22]
+   [24 20 33 28 31]
+   [35 24 19 29 18]
+   [22 27 31 20 16]];
+ f=[250 300 270 310 320];
+ d=[12 10 9 11 8];
+ u=[51 51 51 51 51]; // u be onvane hade balaye
+  // taghazaye ersali az har karkhane 51 dar nazar
+   // gerefte shod va komak mikonad dar soorati k 
+   // az karkhaneii ersal dashte bashi y[j] marboot 
+   // be an 1 shavad.

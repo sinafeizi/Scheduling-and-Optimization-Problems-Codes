@@ -1,0 +1,19 @@
+/*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: tt_sina
+ * Creation Date: Nov 12, 2021 at 9:10:04 PM
+ *********************************************/
+n=6;
+s=1;
+f=6;
+//  c a b f g h
+w=[[9999 9999 9999 6 9999 11]// khorooji az c
+   [6 9999 5 9999 17 9999]// khorooji az a
+   [4 3 9999 9999 9999 7]//khorooji az b
+   [7 11 9999 9999 9 4]//khorooji az f
+   [9999 9999 9999 9999 9999 5]//khorooji az g
+   [9999 11 9999 9 4 9999]];//khorooji az h
+   // rouse
+   // faghede emkane vasl
+   //shodan, fasele 9999
+   // dar nazar gerefte shod
